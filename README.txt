@@ -1,4 +1,4 @@
-Made by Sujeesh
+Made by Rohit
 html5up.net 
 
 a slick little one-pager with a super vibrant color palette (which
